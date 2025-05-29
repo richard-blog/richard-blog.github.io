@@ -1,27 +1,49 @@
 /* Modo oscuro para el tema Minima */
 body {
-  background-color: #121212;
-  color: #e0e0e0;
-  font-family: system-ui, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: system-ui, sans-serif;
 }
 
 a {
-  color: #90caf9;
+    color: #90caf9;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #ffffff;
 }
 
-.site-header, .site-footer {
-  background-color: #1e1e1e;
-  border-color: #333;
+.site-header,
+.site-footer {
+    background-color: #1e1e1e;
+    border-color: #333;
 }
 
-.site-title, .site-nav {
-  color: #ffffff !important;
+.site-title,
+.site-nav {
+    color: #ffffff !important;
 }
 
-.post-title, .post-meta {
-  color: #eeeeee;
+.post-title,
+.post-meta {
+    color: #eeeeee;
+}
+
+.site-nav {
+    margin-top: 0.5rem;
+}
+
+.site-nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #90caf9;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
 }
