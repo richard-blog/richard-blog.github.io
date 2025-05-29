@@ -2,10 +2,6 @@ title: Blog de Richard
 description: Reflexiones, ideas y notas personales
 theme: minima
 
-# GitHub Pages con repo personalizado
-baseurl: "/richard-blog.github.io"
-url: "https://richard.github.io"
-
 # Incluir el CSS del modo oscuro
 sass:
   load_paths:
