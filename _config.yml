@@ -10,3 +10,7 @@ url: "https://richard.github.io"
 sass:
   load_paths:
     - assets/css
+
+# Permitir includes personalizados
+include:
+  - _includes/head-custom.html

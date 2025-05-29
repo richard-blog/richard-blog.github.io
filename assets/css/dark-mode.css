@@ -1,7 +1,8 @@
-/* Modo oscuro básico para theme minima */
+/* Modo oscuro para el tema Minima */
 body {
   background-color: #121212;
   color: #e0e0e0;
+  font-family: system-ui, sans-serif;
 }
 
 a {
@@ -18,5 +19,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-title, .site-nav {
-  color: #ffffff;
+  color: #ffffff !important;
+}
+
+.post-title, .post-meta {
+  color: #eeeeee;
 }
