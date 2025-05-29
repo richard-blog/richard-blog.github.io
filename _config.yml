@@ -2,6 +2,11 @@ title: Blog de Richard
 description: Reflexiones, ideas y notas personales
 theme: minima
 
+# Incluir el CSS del modo oscuro
+sass:
+  load_paths:
+    - assets/css
+
 # Permitir includes personalizados
 include:
   - _includes/head-custom.html
