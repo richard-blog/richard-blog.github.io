@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Jardín de proyectos huérfanos
+title: Jardín de repos
 permalink: /jardin/
 ---
 
-# 🌱 Jardín de proyectos huérfanos
+# 🌿 Jardín de repos
 
-Aquí recopilamos proyectos olvidados, abandonados o poco conocidos que merecen una segunda oportunidad. Cada uno fue analizado por IA y curado manualmente.
+Bienvenido al jardín. Aquí recolectamos dos tipos de proyectos open source:
 
-👇 Explorá las entradas más recientes:
+## 🌱 Repos recientemente actualizados
 
-<ul>
-  {% for post in site.categories.jardin %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> – <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.tags.reciente %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }})
+{% endfor %}
+
+## 🌾 Repos olvidados o abandonados
+
+{% for post in site.tags.abandonado %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }})
+{% endfor %}
