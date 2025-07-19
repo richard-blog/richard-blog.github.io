@@ -2,7 +2,7 @@
 layout: post
 title: "Análisis del proyecto square_common_bl"
 date: 2025-07-18
-categories: jardin-reciente
+categories: repopublicoreciente
 tags: [python, open-source]
 ---
 
