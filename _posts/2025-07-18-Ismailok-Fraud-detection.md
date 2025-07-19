@@ -2,7 +2,7 @@
 layout: post
 title: "Análisis del proyecto Fraud-detection"
 date: 2025-07-18
-categories: jardin
+categories: jardin-reciente
 tags: [python, open-source]
 ---
     
