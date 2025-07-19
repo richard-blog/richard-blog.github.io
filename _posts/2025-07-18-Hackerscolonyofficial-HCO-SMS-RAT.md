@@ -2,7 +2,7 @@
 layout: post
 title: "Análisis del proyecto HCO-SMS-RAT"
 date: 2025-07-18
-categories: jardin
+categories: jardin-reciente
 tags: [android, sms, python, open-source, ciberseguridad]
 ---
 
