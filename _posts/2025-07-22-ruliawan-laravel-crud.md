@@ -3,7 +3,7 @@ layout: post
 title: "Análisis del proyecto laravel-crud"
 date: 2025-07-22
 categories: repopublicoabandonado
-tags: [desarrollo web, gestión de datos, php, ** php, crud, laravel, open source, open-source]
+tags: [desarrollo web, gestión de datos, php, php, crud, laravel, open source, open-source]
 ---
 
 # Laravel CRUD – Facilitando el Desarrollo de Aplicaciones Web

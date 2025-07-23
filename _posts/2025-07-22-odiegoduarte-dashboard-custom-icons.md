@@ -3,7 +3,7 @@ layout: post
 title: "Análisis del proyecto dashboard-custom-icons"
 date: 2025-07-22
 categories: repopublicoabandonado
-tags: [customización, python, open-source, servicios, íconos, personalización, autohospedaje, ** dashboard, interfaz de usuario., open source]
+tags: [customización, python, open-source, servicios, íconos, personalización, autohospedaje, dashboard, interfaz de usuario., open source]
 ---
 
 # Dashboard Custom Icons

@@ -3,7 +3,7 @@ layout: post
 title: "Análisis del proyecto NJITAutoScheduleBuilder"
 date: 2025-07-22
 categories: repopublicoreciente
-tags: [`python`, `automatización`, `desarrollo web`, otros, `flask`, `open source`, open-source]
+tags: [python, automatización, desarrollo web, otros, flask, open source, open-source]
 ---
 
 # Automatización de Horarios de NJIT con NJIT Auto Schedule Builder
